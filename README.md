@@ -10,7 +10,7 @@
 </p>
 
 ## :dart: Índice
-- [Status](#status)
+- [Status](##status)
 - [Tecnologias](#tecnologias)
 - [Pré-Requisitos](#pre-requisitos)
 - [Executando o projeto](#executando-o-projeto)
